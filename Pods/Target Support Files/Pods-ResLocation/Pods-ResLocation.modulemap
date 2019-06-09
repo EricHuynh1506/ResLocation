@@ -1,0 +1,6 @@
+module Pods_ResLocation {
+  umbrella header "Pods-ResLocation-umbrella.h"
+
+  export *
+  module * { export * }
+}
